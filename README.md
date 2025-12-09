@@ -1,14 +1,14 @@
 # ABS
 # Code and data for the paper "A Logical Learning Framework with Adaptive Dual Encoding and Bidirectional State Flow for Document-Level Relation Extraction"
-### Prerequisites
+## Prerequisites
 Create environment using the provided YAML file:
 ```bash
-conda env create -f environment.yml
-conda activate myenv
+conda env create -f ATLOP_ABS.yml
+conda activate ATLOP_ABS
 ```
 
-### Use examples
-#### ABS-ATLOP
+## Use examples
+### ABS-ATLOP
 
 Path for code: `./ABS-ATLOP`
 
