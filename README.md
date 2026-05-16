@@ -1,5 +1,14 @@
 # ABS
 # Code and data for the paper "A Logical Learning Framework with Adaptive Dual Encoder and Bidirectional State Flow for Document-Level Relation Extraction"
+## Datasets
+
+| Dataset | Language | Source |
+|---------|----------|--------|
+| DWIE | English | [klimzaporojets/DWIE](https://github.com/klimzaporojets/DWIE) |
+| Re-DocRED | English | [tonytan48/Re-DocRED](https://github.com/tonytan48/Re-DocRED) |
+| DocRED | English | [thunlp/DocRED](https://github.com/thunlp/DocRED) |
+| HacRED | Chinese | [qiaojiim/HacRED](https://github.com/qiaojiim/HacRED) |
+
 ### Prerequisites
 Create environment using the provided YAML file:
 ```bash
