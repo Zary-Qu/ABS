@@ -1,5 +1,5 @@
 # ABS
-# Code and data for the paper "A Logical Learning Framework with Adaptive Dual Encoding and Bidirectional State Flow for Document-Level Relation Extraction"
+# Code and data for the paper "A Logical Learning Framework with Adaptive Dual Encoder and Bidirectional State Flow for Document-Level Relation Extraction"
 ### Prerequisites
 Create environment using the provided YAML file:
 ```bash
