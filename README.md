@@ -33,5 +33,5 @@ For running experiments on the HacRED dataset, please replace the original `eval
 
 The script for both training and evaluation on the HacRED dataset is:
 ```bash
-python -u train.py --dataset hacred --transformer_type bert --model_name_or_path ../PLM/bert-base-chinese --train_file train.json --dev_file dev.json --test_file test.json --save_path ../trained_model/model_ALTOP_HACRED_123L_1.pth --num_train_epochs 100.0 --train_batch_size 4 --test_batch_size 4 --seed 66 --num_class 27 --tau 1.0 --lambda_sym 0.1
+python -u train.py --dataset hacred --transformer_type bert --model_name_or_path ../PLM/bert-base-chinese --train_file train.json --dev_file dev.json --test_file test.json --save_path ../trained_model/model_ALTOP_HACRED.pth --num_train_epochs 100.0 --train_batch_size 4 --test_batch_size 4 --seed 66 --num_class 27 --tau 1.0 --lambda_sym 0.1
 ```
