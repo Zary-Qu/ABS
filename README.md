@@ -6,8 +6,8 @@
 |---------|----------|--------|
 | DWIE | English | (https://github.com/klimzaporojets/DWIE) |
 | Re-DocRED | English | (https://github.com/tonytan48/Re-DocRED) |
-| DocRED | English | (https://github.com/thunlp/DocRED) |
 | HacRED | Chinese | (https://github.com/qiaojiim/HacRED) |
+| DocRED | English | (https://github.com/thunlp/DocRED) |
 
 ### Prerequisites
 Create environment using the provided YAML file:
