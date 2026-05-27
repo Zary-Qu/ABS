@@ -12,8 +12,8 @@
 ### Prerequisites
 Create environment using the provided YAML file:
 ```bash
-conda env create -f ATLOP_ABS.yml
-conda activate ATLOP_ABS
+conda env create -f environment.yml
+conda activate ABS
 ```
 
 ### Use examples
