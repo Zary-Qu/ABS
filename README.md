@@ -15,9 +15,8 @@ conda activate ABS
 ```
 
 ### Use examples
-#### ABS-ATLOP
 
-Path for code: `./ABS-ATLOP`
+Path for code: `./ABS`
 
 The script for both training and evaluation on the DWIE is:
 ```bash
