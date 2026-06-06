@@ -1,6 +1,4 @@
 # ABS
-# Code and data for the paper "A Logical Learning Framework with Adaptive Dual Encoder and Bidirectional State Flow for Document-Level Relation Extraction"
-## Datasets
 
 | Dataset | Language | Source |
 |---------|----------|--------|
